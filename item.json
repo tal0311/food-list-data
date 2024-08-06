@@ -1,7 +1,7 @@
 [
   {
     "_id": "1",
-    "name": "Apples",
+    "name": "apples",
     "icon": "🍎",
     "group": "fruit",
     "readMoreURL": "https://example.com/apples-info",
@@ -10,7 +10,7 @@
   },
   {
     "_id": "2",
-    "name": "Milk",
+    "name": "milk",
     "icon": "🥛",
     "group": "dairy",
     "readMoreURL": "https://example.com/milk-info",
@@ -19,7 +19,7 @@
   },
   {
     "_id": "3",
-    "name": "Bread",
+    "name": "bread",
     "icon": "🍞",
     "group": "grains",
     "readMoreURL": "https://example.com/bread-info",
@@ -28,7 +28,7 @@
   },
   {
     "_id": "4",
-    "name": "Bananas",
+    "name": "bananas",
     "icon": "🍌",
     "group": "fruit",
     "readMoreURL": "https://example.com/bananas-info",
@@ -37,7 +37,7 @@
   },
   {
     "_id": "5",
-    "name": "Salmon",
+    "name": "salmon",
     "icon": "🐟",
     "group": "fish",
     "readMoreURL": "https://example.com/eggs-info",
@@ -46,7 +46,7 @@
   },
   {
     "_id": "6",
-    "name": "Eggs",
+    "name": "eggs",
     "icon": "🥚",
     "group": "meat-and-poultry",
     "readMoreURL": "https://example.com/eggs-info",
@@ -55,7 +55,7 @@
   },
   {
     "_id": "7",
-    "name": "Chicken",
+    "name": "chicken",
     "icon": "🍗",
     "group": "meat-and-poultry",
     "readMoreURL": "https://example.com/chicken-info",
@@ -64,7 +64,7 @@
   },
   {
     "_id": "8",
-    "name": "Spinach",
+    "name": "spinach",
     "icon": "🥬",
     "group": "vegetable",
     "readMoreURL": "https://example.com/spinach-info",
@@ -73,7 +73,7 @@
   },
   {
     "_id": "9",
-    "name": "Tomatoes",
+    "name": "tomatoes",
     "icon": "🍅",
     "group": "vegetable",
     "readMoreURL": "https://example.com/tomatoes-info",
@@ -82,7 +82,7 @@
   },
   {
     "_id": "10",
-    "name": "Cheese",
+    "name": "cheese",
     "icon": "🧀",
     "group": "dairy",
     "readMoreURL": "https://example.com/cheese-info",
@@ -91,7 +91,7 @@
   },
   {
     "_id": "11",
-    "name": "Rice",
+    "name": "rice",
     "icon": "🍚",
     "group": "grains",
     "readMoreURL": "https://example.com/rice-info",
